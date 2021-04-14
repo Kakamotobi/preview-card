@@ -23,7 +23,7 @@ html {
 
 body {
     font-family: var(--bodyFont);
-    background-color: var(--lightGrey)
+    background-color: var(--lightGrey);
     padding: 90px 25px;
     margin: 0;
     display: flex;
